@@ -2,6 +2,10 @@
     "files.associations": {
         "iostream": "cpp",
         "ostream": "cpp",
-        "iosfwd": "cpp"
+        "iosfwd": "cpp",
+        "string_view": "cpp",
+        "regex": "cpp",
+        "functional": "cpp",
+        "cstdio": "cpp"
     }
 }
